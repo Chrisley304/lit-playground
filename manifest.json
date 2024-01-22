@@ -1,0 +1,9 @@
+{
+    "name": "Lit Playground",
+    "short_name": "LitPlayground",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fd9e2b",
+    "theme_color": "#fd9e2b",
+    "orientation": "portrait-primary"
+}
